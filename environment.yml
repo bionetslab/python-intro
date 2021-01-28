@@ -1,0 +1,12 @@
+name: python-intro
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - jupyter
+  - biopython
+  - jupyter_contrib_nbextensions
+  - pandas
+  - scipy
+  - numpy
+  - seaborn
