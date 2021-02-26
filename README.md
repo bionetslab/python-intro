@@ -4,7 +4,7 @@ Introduction to Python
 
 # License
 
-This work is licensed under the
+This course is licensed under the
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
