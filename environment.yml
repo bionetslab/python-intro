@@ -1,11 +1,12 @@
 name: python-intro
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - python>=3.6
   - jupyter
   - biopython
-  - jupyter_contrib_nbextensions
+  - gseapy
   - pandas
   - scipy
   - numpy
