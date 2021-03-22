@@ -21,11 +21,17 @@ cd python-intro
 conda env create -f environment.yml
 ```
 
-You can now activate the environment and open the Notebooks as follows:
+You can now activate the environment and connect it to your Jupyter Notebook:
 
 ```bash
 conda activate python-intro
-(python-intro) jupyter-notebook first_steps.ipynb
+(python-intro) python -m ipykernel install --user --name=python-intro
+```
+
+Now you can open your first notebook as follows:
+
+```sh
+(python-intro) jupyter notebook first_steps.ipynb
 ```
 
 If the Notebook opens without any errors, you are ready for the course.
