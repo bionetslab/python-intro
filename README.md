@@ -38,7 +38,10 @@ If the Notebook opens without any errors, you are ready for the course.
 
 # Acknowledgements
 
-This course uses material from Mark Bakker's [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) course.
+This course uses material from the following Python courses:
+
+- Mark Bakker's [Python for Exploratory Computing](http://mbakker7.github.io/exploratory_computing_with_python/) course.
+- Chris Rands' [biopython-coronavirus](https://github.com/chris-rands/biopython-coronavirus) course.
 
 # License
 
