@@ -30,8 +30,8 @@ conda activate python-intro
 
 Now you can open your first notebook as follows:
 
-```sh
-(python-intro) jupyter notebook first_steps.ipynb
+```bash
+(python-intro) jupyter notebook 1_first_steps.ipynb
 ```
 
 If the Notebook opens without any errors, you are ready for the course.
