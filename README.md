@@ -36,6 +36,16 @@ Now you can open your first notebook as follows:
 
 If the Notebook opens without any errors, you are ready for the course.
 
+# Writing Python Scripts
+
+The entire course is based on Jupyter Notebooks, but sometimes it is useful to write Python scripts that can be executed from a terminal. As an example, you can have a look at the script `log_transform.py` (just open it in any text editor). You can execute the script as follows:
+
+```bash
+(python-intro) python log_transform.py input/P53.txt output/P53_log_transformed.tsv --drop DESCRIPTION
+```
+
+ This will save a log-transformed version of the data saved in `input/P53.txt` in the file `output/P53_log_transformed.tsv` , where the column `DESCRIPTION` contained in the input file is discarded. 
+
 # Acknowledgements
 
 This course uses material from the following Python courses:
