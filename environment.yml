@@ -13,3 +13,12 @@ dependencies:
   - numpy
   - seaborn
   - rise
+  - tensorflow
+  - pickle
+  - os
+  - cv2
+  - PIL
+  - imageio
+  - random
+  - sklearn
+  - skimage
