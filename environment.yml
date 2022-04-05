@@ -15,11 +15,9 @@ dependencies:
   - seaborn
   - rise
   - tensorflow
-  - pickle
-  - os
-  - cv2
-  - PIL
+  - opencv
+  - pillow
   - imageio
-  - random
   - scikit-learn
   - scikit-image
+  - google-colab
